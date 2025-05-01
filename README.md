@@ -29,3 +29,9 @@ This document contains quickstart templates and additional resources to easily b
 | C# (.NET) | [remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-dotnet) |
 | Python | [remote-mcp-functions-python](https://github.com/Azure-Samples/remote-mcp-functions-python) |
 | TypeScript (Node.js) | [remote-mcp-functions-typescript](https://github.com/Azure-Samples/remote-mcp-functions-typescript) |
+
+*Enhanced with APIM Serverless Gateway (+Entra, OAuth)
+| Language (Stack) | Repo Location |
+|------------------|---------------|
+| Python | [remote-mcp-apim-functions-python](https://github.com/Azure-Samples/remote-mcp-apim-functions-python) |
+
