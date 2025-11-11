@@ -34,7 +34,7 @@ You get a native Azure Functions experience turning code into MCP servers using 
 | Python | [remote-mcp-functions-python](https://github.com/Azure-Samples/remote-mcp-functions-python) |
 | TypeScript (Node.js) | [remote-mcp-functions-typescript](https://github.com/Azure-Samples/remote-mcp-functions-typescript) |
 | C# (.NET) | [remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-dotnet) |
-| Java | [remote-mcp-functions-dotnet](https://github.com/Azure-Samples/remote-mcp-functions-java) |
+| Java | [remote-mcp-functions-java](https://github.com/Azure-Samples/remote-mcp-functions-java) |
 
 *Enhanced with APIM Serverless Gateway (+Entra, OAuth)
 | Language (Stack) | Repo Location |
