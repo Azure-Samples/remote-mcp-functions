@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/azure-samples-remote-mcp-functions-badge.png)](https://mseep.ai/app/azure-samples-remote-mcp-functions)
+
 <!--
 ---
 name: Getting Started with Remote MCP Servers using Azure Functions (Node.js/TypeScript)
