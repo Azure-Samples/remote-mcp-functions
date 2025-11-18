@@ -41,9 +41,9 @@ You get a native Azure Functions experience turning code into MCP servers using 
 |------------------|---------------|
 | Python | [remote-mcp-apim-functions-python](https://github.com/Azure-Samples/remote-mcp-apim-functions-python) |
 
-## Bring your own (BYO) MCP Server and host on Azure Functions [* Early Preview!]
+## Self-hosted MCP Server on Azure Functions [* Public Preview!]
 
-You have the flexibility to bring your own MCP server and/or MCP sdk and can run on Azure Functions serverless compute platform.
+You have the flexibility to bring host your MCP SDK based server on Azure Functions serverless compute platform.
 
 | Language (Stack) | Repo Location |
 |------------------|---------------|
@@ -51,7 +51,3 @@ You have the flexibility to bring your own MCP server and/or MCP sdk and can run
 | TypeScript (Node.js) | [remote-mcp-sdk-functions-hosting-node](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-node) |
 | C# (.NET) | [remote-mcp-sdk-functions-hosting-dotnet](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-dotnet) |
 
-*Enhanced with APIM Serverless Gateway (+Entra, OAuth)
-| Language (Stack) | Repo Location |
-|------------------|---------------|
-| Python | [coming soon!]() |
