@@ -25,7 +25,7 @@ languages:
 
 This document contains quickstart templates and additional resources to easily build and deploy a custom remote MCP server to the cloud using Azure functions. You can clone/restore/run on your local machine with debugging, and `azd up` to have it in the cloud in a couple minutes.  The MCP server is secured by design using keys and HTTPs, and allows more options for OAuth using EasyAuth and/or API Management as well as network isolation using VNET. 
 
-## Use the MCP Extension for Azure Functions [Preview]
+## Use the MCP Extension for Azure Functions
 
 You get a native Azure Functions experience turning code into MCP servers using the MCPTrigger.
 
@@ -50,6 +50,7 @@ You have the flexibility to host MCP SDK based servers on Azure Functions server
 | Python | [remote-mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python) |
 | TypeScript (Node.js) | [remote-mcp-sdk-functions-hosting-node](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-node) |
 | C# (.NET) | [remote-mcp-sdk-functions-hosting-dotnet](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-dotnet) |
+| Java |[remote-mcp-sdk-functions-hosting-java](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-java)|
 
 *Enhanced with APIM Serverless Gateway and Policies
 | Language (Stack) | Repo Location |
