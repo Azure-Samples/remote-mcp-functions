@@ -41,6 +41,4 @@ You get a native Azure Functions experience turning code into MCP servers using 
 | Language (Stack) | Repo Location |
 |------------------|---------------|
 | Python | [remote-mcp-apim-functions-python](https://github.com/Azure-Samples/remote-mcp-apim-functions-python) |
-| Language (Stack) | Repo Location |
-|------------------|---------------|
-| Python | [coming soon!]() |
+
